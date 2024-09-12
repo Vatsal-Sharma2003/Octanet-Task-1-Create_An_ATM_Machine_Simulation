@@ -1,0 +1,11 @@
+ATM machine
+
+
+	◦	Step 1- ask for debit card and verify it is valid or not and then identify which bank atm card is this and the ask user to enter 4 digit code. If code is correct move to step 2 else  show invalid pincode. 
+	◦	Step 2- screen will show 5 options: account balance, deposit, withdrawal, change pin, exit/end transaction. 
+If account balance, display account balance   
+If deposit- ask how much amount you want to add and then utilise will add to your current balance. 
+If withdrawal- ask how much amount want to take out, it will check if amount is present then withdrawal successfully else insufficient balance. 
+If pinchange- enter new pin and done. 
+If exit / end- it end the atm machine further working. 
+
